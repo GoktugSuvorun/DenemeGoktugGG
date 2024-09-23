@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="deneme_goktug",                    # The name of your package
+    name="DenemeGoktugGG",                    # The name of your package
     version="0.1.0",                  # Version of your package
     author="Göktuğ",                  # Your name
     author_email="goktug.onal@ucsf.edu", # Your email address
